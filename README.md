@@ -22,7 +22,7 @@
     <a href="https://instagram.com/marcus.sandi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MarcusMix/MarcusMix/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
