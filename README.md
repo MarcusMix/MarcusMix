@@ -2,6 +2,8 @@
 
 - 📚Estudante de Análise e Desenvolvimento de Sistemas
 - 💾Estudando JavaScript, HTML e CSS
+- 👨‍💻Aprofundando conhecimentos em React e JavaScript ES6
+- 🌐Portfolio: https://marcus-sandi.tech
 
 <div align="center">
   <a href="https://github.com/MarcusMix">
