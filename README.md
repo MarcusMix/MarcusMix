@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marcus!
 
-- 📚Estudante de Análise e Desenvolvimento de Sistemas
+- 📚Graduando de Análise e Desenvolvimento de Sistemas
 - 💾Estudando JavaScript, HTML e CSS
 - 👨‍💻Aprofundando conhecimentos em React e JavaScript ES6
 - 🌐Portfolio: https://marcus-sandi.tech
@@ -26,9 +26,9 @@
   
   <h2> 📞 Contatos </h2> 
  <div>  
-   <a href = "mailto:tradedomarcus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://www.linkedin.com/in/marcus-sandi-47a47122b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "https://www.instagram.com/marcus.sandi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+   <a href="mailto:tradedomarcus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/marcus-sandi-47a47122b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/marcus.sandi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
    
    
     
