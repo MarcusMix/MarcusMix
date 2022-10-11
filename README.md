@@ -2,7 +2,7 @@
 
 - 📚Graduando de Análise e Desenvolvimento de Sistemas
 - 💾Estudando JavaScript, HTML e CSS
-- 👨‍💻Aprofundando conhecimentos em React e JavaScript ES6
+- 👨‍💻Aprofundando conhecimentos em React, JavaScript ES6 e TypeScript.
 - 🌐Portfolio: https://marcus-sandi.tech
 
 <div align="center">
