@@ -1,8 +1,9 @@
 ## Olá, eu sou o Marcus!
 
--Graduando de Análise e Desenvolvimento de Sistemas
--Aprofundando conhecimentos em React e TypeScript.
--Portfolio: https://marcus-sandi.tech
+<p>-Graduando de Análise e Desenvolvimento de Sistemas.</p>
+<p>-Aprofundando conhecimentos em React e TypeScript.</p>
+<p>-Portfolio: https://marcus-sandi.tech</p>
+
 
 <div align="center">
   <a href="https://github.com/MarcusMix">
