@@ -7,12 +7,12 @@
 
 <div align="center">
   <a href="https://github.com/MarcusMix">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcusMix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusMix&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcusMix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusMix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
    
-  <h2> 🔧 Ferramentas </h2>
+  <h2> Ferramentas </h2>
   
   [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,java,mysql)](https://skillicons.dev)
  
@@ -27,7 +27,7 @@
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div> -->
   
-  <h2> 📞 Contatos </h2> 
+  <h2> Contatos </h2> 
  <div>  
    <a href="mailto:marcus.programacao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/marcus-sandi-47a47122b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
