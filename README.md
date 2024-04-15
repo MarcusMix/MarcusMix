@@ -1,6 +1,7 @@
 <!--  ## Olá, eu sou o Marcus! 
-<p>-Graduando de Análise e Desenvolvimento de Sistemas.</p> -->
+<p>-Graduando de Análise e Desenvolvimento de Sistemas.</p> 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Marcus&fontAlign=51&animation=fadeIn&textBg=false&section=header&reversal=false" />
+-->
 
 <h2>Analista de Dados</h2>
 <p>Possuo 1 ano de experiência profissional em análise de dados, buscando extrair informações preciosas e insights por meio da análise de dados, criação e elaboração de dashboards, ETL dos dados, desenvolvimento de automações e geração de KPI.</p>
