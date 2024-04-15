@@ -19,7 +19,7 @@
 </ul>
 
 <hr>
-<h3>Linguagens usadas</h3>
+<h3>Atividades e Linguagens usadas</h3>
 <div align="left">
   <a href="https://github.com/MarcusMix">
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcusMix&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> -->
