@@ -7,6 +7,37 @@
 <p>Possuo 1 ano de experiência profissional em análise de dados, buscando extrair informações preciosas e insights por meio da análise de dados, criação e elaboração de dashboards, ETL dos dados, desenvolvimento de automações e geração de KPI.</p>
 
 
+### Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Xnha17i.png"/>](https://cafeculturabrasil.com/)
+
+**Analista de Dados** \
+[**Café Cultura**](https://cafeculturabrasil.com/) • Full-time • (09/2023 - atual) 
+<br/>
+Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Excel`, `Looker`, `VBA`
+<!-- Projetos em destaque: [Dashboard vendas](www.link.com), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://i.imgur.com/g30AJQX.png"/>](https://www.fsseguross.com.br/)
+
+**Assistente de Dados** \
+[**FS Seguros**](https://rocketseat.com.br/) • Full-time • (06/2023 - 08/2023)
+<br/>
+Linguagens & Tecnologias: `Power BI`, `Excel`, `VBA`
+<br/>
+<!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/D4D0BAQG0QWVuaUpxEw/company-logo_200_200/0/1707483075201/faboficial_logo?e=1722470400&v=beta&t=6f3_S0YK65QW5_RArmPjLAq1V1XWVaOgfxUnYR2sUzE"/>](https://nubank.com.br/)
+
+**Soldado** \
+[**Força Aérea Brasileira**](https://www.fab.mil.br/index.php) • Full-time • (08/2020 - 03/2022)
+<!-- Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/) -->
+<br/>
+<br/>
+
+<!--
 <h3>Atuação Profissional</h3>
 <ul>
   <li>Café Cultura | Analista de Dados (09/2023 - atual) </li>
@@ -14,12 +45,21 @@
   <li>Força Aérea Brasileira | Soldado (08/2020 - 03/2022) </li>
 </ul>
 
+-->
 
 <h3>Formação Academica</h3>
+
+[<img align="left" height="94px" width="94px" alt="Senac" src="https://logodownload.org/wp-content/uploads/2014/10/senac-logo-0.png"/>](https://portal.sc.senac.br/)
+**Tecnológo em Análise e Desenvolvimento de Sistemas** \
+[**Senac**](https://portal.sc.senac.br/portal/novo/) • Cursando 
+
+<!--
 <ul>
   <li>Tecnológo em Análise e Desenvolvimento de Sistemas (03/2022 - 06/2025) </li>
 </ul>
-
+-->
+<br/>
+<br/>
 <hr>
 <h3>Atividades e Linguagens usadas</h3>
 <div align="left">
