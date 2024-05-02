@@ -15,7 +15,8 @@
 [**Café Cultura**](https://cafeculturabrasil.com/) • Full-time • (09/2023 - atual) 
 <br/>
 Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Excel`, `Looker`, `VBA`
-<!-- Projetos em destaque: [Dashboard vendas](www.link.com), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
+<br/>
+Projetos em destaque: [Script python baixar anexos](www.link.com), [Dashboard vendas](www.link.com), [Análise produtos](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) 
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://i.imgur.com/g30AJQX.png"/>](https://www.fsseguross.com.br/)
@@ -25,7 +26,7 @@ Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Excel`, `Looker`, `VBA`
 <br/>
 Linguagens & Tecnologias: `Power BI`, `Excel`, `VBA`
 <br/>
-<!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
+Projetos em destaque: [Script VBA validador]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/D4D0BAQG0QWVuaUpxEw/company-logo_200_200/0/1707483075201/faboficial_logo?e=1722470400&v=beta&t=6f3_S0YK65QW5_RArmPjLAq1V1XWVaOgfxUnYR2sUzE"/>](https://nubank.com.br/)
@@ -51,7 +52,11 @@ Projetos em destaque: [App](https://nubank.com.br/) -->
 
 [<img align="left" height="94px" width="94px" alt="Senac" src="https://logodownload.org/wp-content/uploads/2014/10/senac-logo-0.png"/>](https://portal.sc.senac.br/)
 **Tecnológo em Análise e Desenvolvimento de Sistemas** \
-[**Senac**](https://portal.sc.senac.br/portal/novo/) • Cursando 
+[**Senac**](https://portal.sc.senac.br/portal/novo/) • Cursando 3° semestre
+<br/>
+Linguagens & Tecnologias: `Java`, `MySQL`, `JavaScript`, `MySQL`, `Spring`, `React`
+<br/>
+Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Oficina](<https://github.com/MarcusMix/oficina-project>), [Central Imagens](<https://github.com/DataStoreRepository/central-das-imagens>) 
 
 <!--
 <ul>
