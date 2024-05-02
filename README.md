@@ -19,10 +19,10 @@ Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Excel`, `Looker`, `VBA`
 Projetos em destaque: [Script python baixar anexos](www.link.com), [Dashboard vendas](www.link.com), [Análise produtos](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://i.imgur.com/g30AJQX.png"/>](https://www.fsseguross.com.br/)
+[<img align="left" height="94px" width="94px" alt="FS Seguros" src="https://i.imgur.com/JZvrS6m.png"/>](https://www.fsseguross.com.br/)
 
 **Assistente de Dados** \
-[**FS Seguros**](https://rocketseat.com.br/) • Full-time • (06/2023 - 08/2023)
+[**FS Seguros**](https://www.fsseguross.com.br/) • Full-time • (06/2023 - 08/2023)
 <br/>
 Linguagens & Tecnologias: `Power BI`, `Excel`, `VBA`
 <br/>
