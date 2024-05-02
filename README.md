@@ -9,14 +9,14 @@
 
 ### Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Xnha17i.png"/>](https://cafeculturabrasil.com/)
+[<img align="left" height="94px" width="94px" alt="Café Cultura" src="https://i.imgur.com/Xnha17i.png"/>](https://cafeculturabrasil.com/)
 
 **Analista de Dados** \
 [**Café Cultura**](https://cafeculturabrasil.com/) • Full-time • (09/2023 - atual) 
 <br/>
 Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Excel`, `Looker`, `VBA`
 <br/>
-Projetos em destaque: [Script python baixar anexos](www.link.com), [Dashboard vendas](www.link.com), [Análise produtos](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) 
+Projetos em destaque: [Script python baixar anexos](https://github.com/MarcusMix/baixar-anexos-automaticamente), [Dashboard vendas](www.google.com), [Análise produtos](<www.google.com>) 
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="FS Seguros" src="https://i.imgur.com/JZvrS6m.png"/>](https://www.fsseguross.com.br/)
