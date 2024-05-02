@@ -58,13 +58,20 @@ Linguagens & Tecnologias: `Java`, `MySQL`, `JavaScript`, `MySQL`, `Spring`, `Rea
 <br/>
 Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Oficina](<https://github.com/MarcusMix/oficina-project>), [Central Imagens](<https://github.com/DataStoreRepository/central-das-imagens>) 
 
+### Projetos desenvolvidos
+[Baixar anexos do e-mail automaticamente](<https://github.com/MarcusMix/baixar-anexos-automaticamente>) <br/>
+[Site curso CriptoAutonomo](<https://criptoautonomo.com>) <br/>
+[Ecommerce de roupas](<https://github.com/MarcusMix/ecommerce>)<br/>
+[Catálogo de filmes online](<https://github.com/MarcusMix/movies-catalog>)<br/>
+[Site de animes](<https://github.com/MarcusMix/api-anime>)<br/>
+[Automatizações com VBA e Excel](<https://github.com/MarcusMix/vba>)<br/>
+[Automatizações com Python](<https://github.com/MarcusMix/python>)<br/>
+
 <!--
 <ul>
   <li>Tecnológo em Análise e Desenvolvimento de Sistemas (03/2022 - 06/2025) </li>
 </ul>
 -->
-<br/>
-<br/>
 <hr>
 <h3>Atividades e Linguagens usadas</h3>
 <div align="left">
