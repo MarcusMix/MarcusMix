@@ -59,6 +59,7 @@ Linguagens & Tecnologias: `Java`, `MySQL`, `JavaScript`,`Spring`, `React`
 Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Oficina](<https://github.com/MarcusMix/oficina-project>), [Central Imagens](<https://github.com/DataStoreRepository/central-das-imagens>) 
 
 ### Projetos desenvolvidos
+[Web Scraping imoveis OLX](<https://github.com/MarcusMix/webscraping-python>) <br/>
 [Baixar anexos do e-mail automaticamente](<https://github.com/MarcusMix/baixar-anexos-automaticamente>) <br/>
 [Site curso CriptoAutonomo](<https://criptoautonomo.com>) <br/>
 [Ecommerce de roupas](<https://github.com/MarcusMix/ecommerce>)<br/>
