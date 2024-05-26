@@ -61,16 +61,19 @@ Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Ofi
 ### Projetos desenvolvidos
 [Web Scraping de Imoveis e Alugueis do OLX](<https://github.com/MarcusMix/webscraping-python>)
  <br/>
-<img src="https://i.imgur.com/0G6m8wt.png" height="120px" alt="Web Scraping imoveis OLX" />
+<img src="https://i.imgur.com/0G6m8wt.png" height="90px" alt="Web Scraping imoveis OLX" />
 
 
 
  [Converter Nota fiscal (XML) em Excel (XLSX)](<https://github.com/MarcusMix/converter-xml-para-excel>) 
  <br/>
- <img src="https://i.imgur.com/y8PIg61.png" height="120px" alt="Converter Nota fiscal (XML) em Excel (XLSX)" />
+ <img src="https://i.imgur.com/y8PIg61.png" height="90px" alt="Converter Nota fiscal (XML) em Excel (XLSX)" />
 
 
-[Baixar anexos do e-mail automaticamente](<https://github.com/MarcusMix/baixar-anexos-automaticamente>) <br/>
+[Baixar anexos do e-mail automaticamente](<https://github.com/MarcusMix/baixar-anexos-automaticamente>)
+<br/>
+<img src="https://i.imgur.com/0LnJx5e.png" height="90px" alt="Baixar anexos do e-mail automaticamente" /> 
+<br/>
 [Site curso CriptoAutonomo](<https://criptoautonomo.com>) <br/>
 [Ecommerce de roupas](<https://github.com/MarcusMix/ecommerce>)<br/>
 [Catálogo de filmes online](<https://github.com/MarcusMix/movies-catalog>)<br/>
@@ -78,7 +81,7 @@ Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Ofi
 [Automatizações com VBA e Excel](<https://github.com/MarcusMix/vba>)<br/>
 [Automatizações com Python](<https://github.com/MarcusMix/python>)<br/>
 
-<!-- <img src="" height="120px" alt="Baixar anexos do e-mail automaticamente" /> -->
+
 <!--
 <ul>
   <li>Tecnológo em Análise e Desenvolvimento de Sistemas (03/2022 - 06/2025) </li>
