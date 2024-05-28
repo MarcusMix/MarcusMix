@@ -5,6 +5,7 @@
 
 <h2>Analista de Dados</h2>
 <p>Possuo 1 ano de experiência profissional em análise de dados, buscando extrair informações preciosas e insights por meio da análise de dados, criação e elaboração de dashboards, ETL dos dados, desenvolvimento de automações e geração de KPI.</p>
+<hr> 
 
 ### Experiência de trabalho
 
@@ -46,6 +47,7 @@ Projetos em destaque: [App](https://nubank.com.br/) -->
 </ul>
 
 -->
+<hr> 
 
 <h3>Formação Academica</h3>
 
@@ -57,29 +59,32 @@ Linguagens & Tecnologias: `Java`, `MySQL`, `JavaScript`,`Spring`, `React`
 <br/>
 Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Oficina](<https://github.com/MarcusMix/oficina-project>), [Central Imagens](<https://github.com/DataStoreRepository/central-das-imagens>) 
 
+<hr> 
 
 ### Projetos desenvolvidos
-[Web Scraping de Imoveis e Alugueis do OLX](<https://github.com/MarcusMix/webscraping-python>)
- <br/>
+  <!--
 <img src="https://i.imgur.com/0G6m8wt.png" height="90px" alt="Web Scraping imoveis OLX" />
+-->
 
 
-
- [Converter Nota fiscal (XML) em Excel (XLSX)](<https://github.com/MarcusMix/converter-xml-para-excel>) 
- <br/>
+ <!--
  <img src="https://i.imgur.com/y8PIg61.png" height="90px" alt="Converter Nota fiscal (XML) em Excel (XLSX)" />
-
-
-[Baixar anexos do e-mail automaticamente](<https://github.com/MarcusMix/baixar-anexos-automaticamente>)
-<br/>
+  -->
+  <!--
 <img src="https://i.imgur.com/0LnJx5e.png" height="90px" alt="Baixar anexos do e-mail automaticamente" /> 
 <br/>
-[Site curso CriptoAutonomo](<https://criptoautonomo.com>) <br/>
-[Ecommerce de roupas](<https://github.com/MarcusMix/ecommerce>)<br/>
-[Catálogo de filmes online](<https://github.com/MarcusMix/movies-catalog>)<br/>
-[Site de animes](<https://github.com/MarcusMix/api-anime>)<br/>
-[Automatizações com VBA e Excel](<https://github.com/MarcusMix/vba>)<br/>
-[Automatizações com Python](<https://github.com/MarcusMix/python>)<br/>
+-->
+
+
+•     [Web Scraping de Imoveis e Alugueis do OLX](<https://github.com/MarcusMix/webscraping-python>) <br/>
+•     [Converter Nota fiscal (XML) em Excel (XLSX)](<https://github.com/MarcusMix/converter-xml-para-excel>) <br/>
+•     [Baixar anexos do e-mail automaticamente](<https://github.com/MarcusMix/baixar-anexos-automaticamente>) <br/>
+•     [Site curso CriptoAutonomo](<https://criptoautonomo.com>) <br/>
+•     [Ecommerce de roupas](<https://github.com/MarcusMix/ecommerce>)<br/>
+•     [Catálogo de filmes online](<https://github.com/MarcusMix/movies-catalog>)<br/>
+•     [Site de animes](<https://github.com/MarcusMix/api-anime>)<br/>
+•     [Automatizações com VBA e Excel](<https://github.com/MarcusMix/vba>)<br/>
+•     [Automatizações com Python](<https://github.com/MarcusMix/python>)<br/>
 
 
 <!--
@@ -113,6 +118,7 @@ Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Ofi
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
   -->
+  <hr>
  <h2> Contatos </h2> 
  <div>  
    <a href="mailto:marcus.programacao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
