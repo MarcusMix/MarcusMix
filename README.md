@@ -1,7 +1,7 @@
 <!--  ## Olá, eu sou o Marcus! 
 <p>-Graduando de Análise e Desenvolvimento de Sistemas.</p> 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Marcus&fontAlign=51&animation=fadeIn&textBg=false&section=header&reversal=false" />
--->
+
 
 <h2>Analista de Dados</h2>
 <p>Possuo 1 ano de experiência profissional em análise de dados, buscando extrair informações preciosas e insights por meio da análise de dados, criação e elaboração de dashboards, ETL dos dados, desenvolvimento de automações e geração de KPI.</p>
@@ -46,7 +46,6 @@ Projetos em destaque: [App](https://nubank.com.br/) -->
   <li>Força Aérea Brasileira | Soldado (08/2020 - 03/2022) </li>
 </ul>
 
--->
 <hr> 
 
 <h3>Formação Academica</h3>
@@ -60,7 +59,7 @@ Linguagens & Tecnologias: `Java`, `MySQL`, `JavaScript`,`Spring`, `React`
 Projetos em destaque: [FoodTruck](<https://github.com/MarcusMix/poo-java>), [Oficina](<https://github.com/MarcusMix/oficina-project>), [Central Imagens](<https://github.com/DataStoreRepository/central-das-imagens>) 
 
 <hr> 
-
+-->
 ### Projetos desenvolvidos
   <!--
 <img src="https://i.imgur.com/0G6m8wt.png" height="90px" alt="Web Scraping imoveis OLX" />
