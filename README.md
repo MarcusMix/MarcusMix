@@ -1,3 +1,5 @@
+
+<!---
 ## 💼 Projetos Destacados
 
 ### Automação e Web Scraping
@@ -24,7 +26,6 @@
 - [🐍 Automatizações com Python](https://github.com/MarcusMix/python)  
  Coleção de scripts para automatizar diversos processos usando Python.
 
-<!---
 # Marcus
 
 ## 👨‍💻 Sobre mim
