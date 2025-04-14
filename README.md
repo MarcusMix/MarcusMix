@@ -1,4 +1,15 @@
+Apenas um jovem velho estudando dados e linux
 
+Meu hobby é descobrir como vou perder tempo alterando coisas inúteis no linux :)
+
+- [⚙️ Meus dotfiles ](https://github.com/MarcusMix/dotfiles)  
+- [📱 Web Scraping de imóveis e aluguéis do olx](https://github.com/MarcusMix/webscraping-python)
+- [📱 Web Scraping Google Play Store e App Store](https://github.com/MarcusMix/webscraping-googleplaystore-assessment)  
+- [📧 Baixar Anexos do Email Automaticamente](https://github.com/MarcusMix/baixar-anexos-automaticamente)  
+- [🔄 Pipelines de Dados e ETL com Airflow](https://github.com/MarcusMix/airflow)  
+- [📊 Converter Nota Fiscal (XML) em Excel (XLSX)](https://github.com/MarcusMix/converter-xml-para-excel)  
+- [📈 Automatizações com VBA e Excel](https://github.com/MarcusMix/vba)  
+- [🐍 Automatizações com Python](https://github.com/MarcusMix/python)  
 <!---
 ## 💼 Projetos Destacados
 
