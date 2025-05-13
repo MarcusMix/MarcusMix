@@ -9,7 +9,13 @@ Meu hobby é descobrir como vou perder tempo alterando coisas inúteis no linux 
 - [🔄 Pipelines de Dados e ETL com Airflow](https://github.com/MarcusMix/airflow)  
 - [📊 Converter Nota Fiscal (XML) em Excel (XLSX)](https://github.com/MarcusMix/converter-xml-para-excel)  
 - [📈 Automatizações com VBA e Excel](https://github.com/MarcusMix/vba)  
-- [🐍 Automatizações com Python](https://github.com/MarcusMix/python)  
+- [🐍 Automatizações com Python](https://github.com/MarcusMix/python)
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MarcusMix/count.svg?"  />
+</div>
 <!---
 ## 💼 Projetos Destacados
 
