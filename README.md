@@ -13,9 +13,6 @@ Meu hobby é descobrir como vou perder tempo alterando coisas inúteis no linux 
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MarcusMix/count.svg?"  />
-</div>
 <!---
 ## 💼 Projetos Destacados
 
