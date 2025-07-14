@@ -13,6 +13,7 @@ Ferramentas/alguma coisa que estou usando:
 - [fedora](https://youtu.be/6wPZi71LOmQ?si=atamK55MFQ5qGDT1) (sistema operacional inovador)
 - loqsec (anotações)
 - capcut (editor de vídeo para noobs)
+- keepassxc (cofre pessoal de senhas offiline opensource)
 - thinkpad e14 (melhor notebook para usuários linux)
 - duckduckgo (ferramenta de pesquisa da web privada)
 
