@@ -2,6 +2,22 @@ Apenas um jovem velho estudando dados e linux
 
 Meu hobby é descobrir como vou perder tempo alterando coisas inúteis no linux :)
 
+Ferramentas/alguma coisa que estou usando:
+- [nvim](https://youtu.be/fGI7uF5Z7wI?si=sykU3SAClpELjBX8) (quando não estou com preguiça)
+- tmux (tentando me acostumar)
+- bruno (testador de API melhor que o postman)
+- kitty (terminal hypado do mundo linux)
+- [zed](https://youtu.be/By_9sRRz6R4?si=MOzfkSu4gz3vkkrU) (IDE com IA)
+- [brave](https://youtu.be/Z-akdgeP71A?si=MrwT8oM6Hb9N5YN0) (browser nem tão privado assim)
+- [hyprland](https://youtu.be/XNIyCr9I2W0?si=1CwsrIPnOhe6rTfs) (tiling window manager lindo e funcional)
+- [fedora](https://youtu.be/6wPZi71LOmQ?si=atamK55MFQ5qGDT1) (sistema operacional inovador)
+- loqsec (anotações)
+- capcut (editor de vídeo para noobs)
+- thinkpad e14 (melhor notebook para usuários linux)
+- duckduckgo (ferramenta de pesquisa da web privada)
+
+
+<!---
 - [⚙️ Meus dotfiles ](https://github.com/MarcusMix/dotfiles)  
 - [📱 Web Scraping de imóveis e aluguéis do olx](https://github.com/MarcusMix/webscraping-python)
 - [📱 Web Scraping Google Play Store e App Store](https://github.com/MarcusMix/webscraping-googleplaystore-assessment)  
@@ -13,7 +29,7 @@ Meu hobby é descobrir como vou perder tempo alterando coisas inúteis no linux 
 
 
 
-<!---
+
 ## 💼 Projetos Destacados
 
 ### Automação e Web Scraping
