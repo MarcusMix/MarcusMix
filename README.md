@@ -14,6 +14,7 @@ Ferramentas/alguma coisa que estou usando:
 - loqsec (anotações em formato de grafo)
 - capcut (editor de vídeo para noobs)
 - keepassxc (cofre pessoal de senhas offiline opensource)
+- veracrypt e cryptomator (ferramentas para criptografar arquivos)
 - thinkpad e14 (melhor linha de notebook para usuários linux)
 - duckduckgo (ferramenta de pesquisa da web privada)
 
